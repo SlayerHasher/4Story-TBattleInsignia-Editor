@@ -1,5 +1,7 @@
 # 4Story-TBattleInsignia-Editor
 This is editor for 4Story (MMORPG) game.
+(For end client GameForge 09.01.2021)
+(Version Tcd ~ 5.0)
 
 You can edit/add/delete all strings with this is editor.
 
