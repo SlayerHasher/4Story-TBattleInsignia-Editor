@@ -1,0 +1,12 @@
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\bin\Release\TBattleInsignia Editor.exe.config
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\bin\Release\TBattleInsignia Editor.exe
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\bin\Release\TBattleInsignia Editor.pdb
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.csproj.AssemblyReference.cache
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia_Editor.About.resources
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia_Editor.TBattleInsignia_Editor.resources
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia_Editor.Properties.Resources.resources
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.csproj.GenerateResource.cache
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.csproj.CoreCompileInputs.cache
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.exe
+C:\Users\Slaye\Desktop\4Story-TBattleInsignia-Editor\TBattleInsignia Editor\obj\Release\TBattleInsignia Editor.pdb

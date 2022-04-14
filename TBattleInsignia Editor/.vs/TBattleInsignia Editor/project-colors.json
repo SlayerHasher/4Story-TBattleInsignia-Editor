@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e16957b3-99a4-450c-aeee-c12c8d29d16c": {
+      "ProjectGuid": "e16957b3-99a4-450c-aeee-c12c8d29d16c",
+      "DisplayName": "TBattleInsignia Editor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
